@@ -1,4 +1,4 @@
-# EDA Titanic
+# Titanic EDA & Survivors Prediction
 
 ### Content
 #### 1. Load data
